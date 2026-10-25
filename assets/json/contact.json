@@ -1,0 +1,40 @@
+[
+  {
+    "mainTitle": {
+      "title": "MUNEEB",
+      "link": "https://github.com/muneebrahmancmd",
+      "subtitle": "(GITHUB)"
+    },
+    "list01": {
+      "text": "EMAIL",
+      "link": "mailto:muneebrahman500@gmail.com"
+    },
+    "list02": {
+      "text": "LINKEDIN",
+      "link": "https://www.linkedin.com/in/muneeb-soomro-887925333"
+    },
+    "list03": {
+      "text": "INSTAGRAM",
+      "link": "https://www.instagram.com/he__muneeb"
+    }
+  },
+  {
+    "mainTitle": {
+      "title": "HSMKRT",
+      "link": "https://github.com/hisamikurita/hisamikurita-portfoliosite-v2022",
+      "subtitle": "(SOURCE)"
+    },
+    "list01": {
+      "text": "CODE BASE: HISAMI KURITA",
+      "link": "https://github.com/hisamikurita/hisamikurita-portfoliosite-v2022"
+    },
+    "list02": {
+      "text": "ORIGINAL SITE",
+      "link": "https://hsmkrt1996.com/"
+    },
+    "list03": {
+      "text": "TWITTER",
+      "link": "https://twitter.com/Muneeb455365487"
+    }
+  }
+]

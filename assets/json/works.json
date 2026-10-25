@@ -1,0 +1,762 @@
+[
+  {
+    "id": "portfolio-2026",
+    "title": {
+      "full": "PORTFOLIO 2026",
+      "short": "FOLIO26"
+    },
+    "desc": "FULL-STACK & AI-DRIVEN PORTFOLIO",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "THE MAIN PORTFOLIO OF MUNEEB REHMAN. IT BRINGS TOGETHER FULL-STACK WEB WORK, GRAPHIC DESIGN AND AI-GENERATED VISUALS IN ONE CLEAN, ANIMATED SITE, BUILT TO SHOW WHAT I MAKE AND HOW I THINK.",
+    "siteLink": "https://muneeb-portfolio-2026.netlify.app/",
+    "siteColor": {
+      "bodyContentsColor": "#ffd955",
+      "allTextColor": "#302c1a",
+      "mvTextColor": "#302c1a",
+      "shadowColor": "rgba(120,90,0,0.45)"
+    },
+    "pickup": {
+      "pickupFlag": true,
+      "color01": "#e8b92a",
+      "color02": "#fff0a8",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "FULL-STACK",
+          "text02": "& AI DESIGN",
+          "text03": "PORTFOLIO 2026"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "A PORTFOLIO THAT SHOWS",
+          "text02": "WEB, DESIGN AND AI WORK",
+          "text03": "IN ONE PLACE."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": 8,
+      "xspeed": 0.11,
+      "yspeed": 0.18
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/portfolio-2026/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/portfolio-2026/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/portfolio-2026/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/portfolio-2026/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/portfolio-2026/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "FULL-STACK",
+      "text02": "& AI DESIGN"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "FULL-STACK",
+      "text02": "& AI DESIGN"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "MY 2026 PORTFOLIO. WEB DEVELOPMENT,",
+      "text02": "GRAPHIC DESIGN AND AI TOOLS,",
+      "text03": "ALL IN ONE LIVE SITE."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "MY 2026 PORTFOLIO. WEB DEVELOPMENT,",
+      "text02": "GRAPHIC DESIGN AND AI TOOLS."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/portfolio-2026/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/portfolio-2026/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/portfolio-2026/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/portfolio-2026/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": "muna-2k26",
+    "title": {
+      "full": "MUNA PORTFOLIO",
+      "short": "MUNA"
+    },
+    "desc": "REAL DIGITAL SYSTEMS, BUILT FOR PEOPLE",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "MUNA PORTFOLIO 2K26 PRESENTS PRACTICAL DIGITAL SYSTEMS: CLEAN INTERFACES, SOLID FRONTEND WORK AND THE DETAILS THAT MAKE A PRODUCT FEEL FINISHED.",
+    "siteLink": "https://muna-portfolio-2k26.netlify.app/",
+    "siteColor": {
+      "bodyContentsColor": "#ffabb7",
+      "allTextColor": "#302c1a",
+      "mvTextColor": "#302c1a",
+      "shadowColor": "rgba(160,40,70,0.4)"
+    },
+    "pickup": {
+      "pickupFlag": true,
+      "color01": "#e8758a",
+      "color02": "#ffd2d9",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "REAL DIGITAL",
+          "text02": "SYSTEMS",
+          "text03": "MUNA PORTFOLIO"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "A PORTFOLIO FOCUSED ON",
+          "text02": "REAL SYSTEMS THAT WORK",
+          "text03": "FOR REAL PEOPLE."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": -6,
+      "xspeed": -0.08,
+      "yspeed": 0.2
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/muna-2k26/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/muna-2k26/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/muna-2k26/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/muna-2k26/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/muna-2k26/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "REAL DIGITAL",
+      "text02": "SYSTEMS"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "REAL DIGITAL",
+      "text02": "SYSTEMS"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "A PORTFOLIO ABOUT BUILDING",
+      "text02": "DIGITAL SYSTEMS THAT ARE",
+      "text03": "USEFUL, CLEAR AND FAST."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "DIGITAL SYSTEMS THAT ARE",
+      "text02": "USEFUL, CLEAR AND FAST."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muna-2k26/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/muna-2k26/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muna-2k26/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muna-2k26/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": "muneeb-dev",
+    "title": {
+      "full": "MUNEEB DEV",
+      "short": "MDEV"
+    },
+    "desc": "DEVELOPER & DESIGNER PORTFOLIO",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "MUNEEB DEV IS THE DEVELOPER AND DESIGNER SIDE OF MY WORK: RESPONSIVE WEB BUILDS, VISUAL DESIGN AND THE SMALL INTERACTIONS THAT TIE THEM TOGETHER.",
+    "siteLink": "https://muneeb-dev.netlify.app/",
+    "siteColor": {
+      "bodyContentsColor": "#7ec1f9",
+      "allTextColor": "#0d3a63",
+      "mvTextColor": "#0d3a63",
+      "shadowColor": "rgba(13,76,130,0.4)"
+    },
+    "pickup": {
+      "pickupFlag": true,
+      "color01": "#4a97dc",
+      "color02": "#c4e3ff",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "DEVELOPER",
+          "text02": "& DESIGNER",
+          "text03": "MUNEEB DEV"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "WEB DEVELOPMENT AND",
+          "text02": "GRAPHIC DESIGN, SIDE BY SIDE,",
+          "text03": "IN A SINGLE PORTFOLIO."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": 7,
+      "xspeed": 0.05,
+      "yspeed": 0.12
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/muneeb-dev/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/muneeb-dev/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/muneeb-dev/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/muneeb-dev/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/muneeb-dev/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "DEVELOPER",
+      "text02": "& DESIGNER"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "DEVELOPER",
+      "text02": "& DESIGNER"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "WHERE CODE MEETS DESIGN.",
+      "text02": "A DEVELOPER PORTFOLIO WITH",
+      "text03": "A DESIGNER'S EYE."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "WHERE CODE MEETS DESIGN.",
+      "text02": "A DEVELOPER WITH A DESIGNER'S EYE."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-dev/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/muneeb-dev/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-dev/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-dev/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": "dev-portfolio",
+    "title": {
+      "full": "DEV PORTFOLIO",
+      "short": "NIGHT"
+    },
+    "desc": "NIGHT MODE DEVELOPER PORTFOLIO",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "DEV PORTFOLIO IS A NIGHT-MODE PORTFOLIO FOR MY DEVELOPMENT WORK: A DARK INTERFACE, SHARP TYPOGRAPHY AND FAST, MODERN FRONTEND CODE.",
+    "siteLink": "https://muneeb-dev-portfolio.netlify.app/",
+    "siteColor": {
+      "bodyContentsColor": "#1d2233",
+      "allTextColor": "#f0efeb",
+      "mvTextColor": "#f0efeb",
+      "shadowColor": "rgba(0,0,0,0.55)"
+    },
+    "pickup": {
+      "pickupFlag": false,
+      "color01": "#2e3650",
+      "color02": "#5e6d90",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "NIGHT MODE",
+          "text02": "DEVELOPER",
+          "text03": "DEV PORTFOLIO"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "A DARK, FOCUSED PORTFOLIO",
+          "text02": "FOR LATE-NIGHT BUILDERS."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": -8,
+      "xspeed": 0.1,
+      "yspeed": 0.15
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/dev-portfolio/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/dev-portfolio/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/dev-portfolio/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/dev-portfolio/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/dev-portfolio/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "NIGHT MODE",
+      "text02": "DEVELOPER"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "NIGHT MODE",
+      "text02": "DEVELOPER"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "A DARK-THEMED DEVELOPER PORTFOLIO,",
+      "text02": "BUILT FOR FOCUS AND SPEED."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "A DARK-THEMED DEVELOPER",
+      "text02": "PORTFOLIO."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/dev-portfolio/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/dev-portfolio/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/dev-portfolio/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/dev-portfolio/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": "mr-folio",
+    "title": {
+      "full": "MR PORTFOLIO",
+      "short": "MONO"
+    },
+    "desc": "MONOGRAM PORTFOLIO WITH INTERACTIVE VISUALS",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "MR PORTFOLIO IS A MONOGRAM-LED PORTFOLIO: A BOLD PERSONAL MARK, INTERACTIVE VISUAL DETAILS AND SMOOTH ANIMATION THROUGHOUT.",
+    "siteLink": "https://muneeb-port-folio.netlify.app/",
+    "siteColor": {
+      "bodyContentsColor": "#c9d3e9",
+      "allTextColor": "#302c1a",
+      "mvTextColor": "#302c1a",
+      "shadowColor": "rgba(60,70,110,0.4)"
+    },
+    "pickup": {
+      "pickupFlag": false,
+      "color01": "#9aa8cc",
+      "color02": "#e6ebf6",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "MONOGRAM",
+          "text02": "PORTFOLIO",
+          "text03": "MR PORTFOLIO"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "INTERACTIVE VISUALS",
+          "text02": "BUILT AROUND MY",
+          "text03": "MR MONOGRAM."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": 6,
+      "xspeed": 0.08,
+      "yspeed": 0.14
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/mr-folio/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/mr-folio/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/mr-folio/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/mr-folio/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/mr-folio/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "MONOGRAM",
+      "text02": "PORTFOLIO"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "MONOGRAM",
+      "text02": "PORTFOLIO"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "A PORTFOLIO BUILT AROUND",
+      "text02": "MY MR MONOGRAM AND",
+      "text03": "INTERACTIVE VISUALS."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "A PORTFOLIO BUILT AROUND",
+      "text02": "MY MR MONOGRAM."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/mr-folio/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/mr-folio/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/mr-folio/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/mr-folio/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  },
+  {
+    "id": "muneeb-folio",
+    "title": {
+      "full": "MUNEEB FOLIO",
+      "short": "FOLIO"
+    },
+    "desc": "EDITORIAL PORTFOLIO, NEWLY MADE",
+    "client": "PERSONAL PROJECT",
+    "freeArea": "MUNEEB FOLIO IS MY NEWEST PORTFOLIO, LIVE ON VERCEL. IT IS LAID OUT LIKE AN EDITORIAL ISSUE, WITH SMOOTH SCROLLING, A SCATTERED VISUAL EXPLORATION BOARD, SELECTED WORKS AND CONTACT LINKS.",
+    "siteLink": "https://muna-portfolio-2k26.vercel.app/",
+    "siteColor": {
+      "bodyContentsColor": "#fb6f3e",
+      "allTextColor": "#302c1a",
+      "mvTextColor": "#302c1a",
+      "shadowColor": "rgba(150,50,10,0.45)"
+    },
+    "pickup": {
+      "pickupFlag": false,
+      "color01": "#d94b23",
+      "color02": "#ffb48f",
+      "title": [
+        {
+          "fieldId": "title",
+          "text01": "EDITORIAL",
+          "text02": "PORTFOLIO",
+          "text03": "MUNEEB FOLIO"
+        }
+      ],
+      "text": [
+        {
+          "fieldId": "text",
+          "text01": "AN EDITORIAL STYLE PORTFOLIO",
+          "text02": "WITH SCROLL ANIMATION",
+          "text03": "AND A VISUAL BOARD."
+        }
+      ]
+    },
+    "projectNum": {
+      "rotate": -7,
+      "xspeed": 0.09,
+      "yspeed": 0.16
+    },
+    "heroImg": {
+      "pc": {
+        "url": "/images/works/muneeb-folio/hero-pc.webp",
+        "width": 2048,
+        "height": 1280
+      },
+      "sp": {
+        "url": "/images/works/muneeb-folio/hero-sp.webp",
+        "width": 900,
+        "height": 1440
+      }
+    },
+    "hambergerMenuImg": {
+      "url": "/images/works/muneeb-folio/menu.webp",
+      "width": 360,
+      "height": 360
+    },
+    "aboutImages": {
+      "img01": {
+        "url": "/images/works/muneeb-folio/about-01.webp",
+        "width": 560,
+        "height": 410
+      },
+      "img02": {
+        "url": "/images/works/muneeb-folio/about-02.webp",
+        "width": 560,
+        "height": 410
+      }
+    },
+    "detailsMainTextPc": {
+      "fieldId": "pc",
+      "text01": "EDITORIAL",
+      "text02": "PORTFOLIO"
+    },
+    "detailsMainTextSp": {
+      "fieldId": "sp",
+      "text01": "EDITORIAL",
+      "text02": "PORTFOLIO"
+    },
+    "detailsMainDescPc": {
+      "fieldId": "pc",
+      "text01": "A NEWLY MADE EDITORIAL PORTFOLIO:",
+      "text02": "ISSUE 01, SELECTED WORKS",
+      "text03": "AND A VISUAL EXPLORATION BOARD."
+    },
+    "detailsMainDescSp": {
+      "fieldId": "sp",
+      "text01": "A NEWLY MADE EDITORIAL",
+      "text02": "PORTFOLIO."
+    },
+    "contentsImg": [
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-folio/content-01.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "full",
+        "object": {
+          "url": "/images/works/muneeb-folio/content-02.webp",
+          "width": 2000,
+          "height": 1100
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-folio/content-03.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      },
+      {
+        "fieldId": "default",
+        "object": {
+          "url": "/images/works/muneeb-folio/content-04.webp",
+          "width": 1600,
+          "height": 1000
+        }
+      }
+    ]
+  }
+]

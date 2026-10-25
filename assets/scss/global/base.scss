@@ -1,0 +1,38 @@
+body {
+  background-color: $darkBlack;
+  color: $white;
+  font-size: 16px;
+  font-family: $helvetica;
+  font-feature-settings: "palt";
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+  overscroll-behavior: none;
+
+  &::-webkit-scrollbar {
+    display: none;
+    -webkit-appearance: none;
+  }
+}
+
+* {
+  cursor: none !important;
+}
+
+*::selection {
+  background: $darkBlack;
+  color: $white;
+}
+
+.l-container {
+  width: 100%;
+  padding: 0 40px;
+
+  @include sp() {
+    padding: 0 vw_sp(20);
+  }
+}
+
+canvas{
+  display: block;
+  margin: 0 auto;
+}

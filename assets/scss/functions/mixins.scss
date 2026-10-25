@@ -1,0 +1,40 @@
+@mixin tab() {
+  @media (max-width: 1280px) {
+    @content;
+  }
+}
+
+@mixin tab-vertical() {
+  @media (max-width: 1028px) {
+    @content;
+  }
+}
+
+@mixin sp() {
+  @media (max-width: 767px) {
+    @content;
+  }
+}
+
+// hover可能な端末に絞ったhover
+@mixin hover {
+  @media (hover: hover) and (pointer: fine) {
+    &:hover {
+      @content;
+    }
+  }
+}
+
+//three point leader
+@mixin line-clamp($num, $num-sp: null) {
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: $num;
+  overflow: hidden;
+
+  @if $num-sp {
+    @include mq {
+      -webkit-line-clamp: $num-sp;
+    }
+  }
+}

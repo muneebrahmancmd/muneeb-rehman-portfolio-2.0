@@ -1,0 +1,33 @@
+{
+  "name": "muneeb-rehman-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=16"
+  },
+  "scripts": {
+    "dev": "NODE_OPTIONS=--openssl-legacy-provider nuxt",
+    "build": "NODE_OPTIONS=--openssl-legacy-provider nuxt build",
+    "start": "nuxt start",
+    "generate": "NODE_OPTIONS=--openssl-legacy-provider nuxt generate"
+  },
+  "dependencies": {
+    "@ashthornton/asscroll": "^2.0.2",
+    "core-js": "^3.15.1",
+    "gsap": "^3.7.1",
+    "nuxt": "^2.15.8",
+    "three": "^0.136.0",
+    "axios": "^0.21.4"
+  },
+  "devDependencies": {
+    "@aceforth/nuxt-optimized-images": "^1.4.0",
+    "@nuxt/image": "^0.6.0",
+    "@nuxtjs/style-resources": "^1.2.1",
+    "glslify-loader": "^2.0.0",
+    "imagesloaded": "^4.1.4",
+    "raw-loader": "^4.0.2",
+    "sass": "^1.39.0",
+    "sass-loader": "^10.2.0",
+    "webp-loader": "^0.6.0"
+  }
+}

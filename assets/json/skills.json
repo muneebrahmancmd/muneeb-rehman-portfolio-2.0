@@ -1,0 +1,83 @@
+[
+  {
+    "id": "s0",
+    "group": "WEB",
+    "title": "HTML / CSS / JAVASCRIPT",
+    "rank": "FRONTEND",
+    "date": "2026",
+    "abbr": "FE",
+    "modifier": "aw-hm"
+  },
+  {
+    "id": "s1",
+    "group": "WEB",
+    "title": "VUE / NUXT / NEXT.JS",
+    "rank": "FRONTEND",
+    "date": "2026",
+    "abbr": "FE",
+    "modifier": "da-uxawd"
+  },
+  {
+    "id": "s2",
+    "group": "WEB",
+    "title": "THREE.JS / GSAP",
+    "rank": "CREATIVE CODING",
+    "date": "2026",
+    "abbr": "CC",
+    "modifier": "aw-hm"
+  },
+  {
+    "id": "s3",
+    "group": "WEB",
+    "title": "FULL-STACK SYSTEMS",
+    "rank": "FULL-STACK",
+    "date": "2026",
+    "abbr": "FS",
+    "modifier": "da-uxawd"
+  },
+  {
+    "id": "s4",
+    "group": "DESIGN",
+    "title": "WEB & UI DESIGN",
+    "rank": "DESIGN",
+    "date": "2026",
+    "abbr": "UI",
+    "modifier": "da-kds"
+  },
+  {
+    "id": "s5",
+    "group": "DESIGN",
+    "title": "GRAPHIC DESIGN",
+    "rank": "DESIGN",
+    "date": "2026",
+    "abbr": "GD",
+    "modifier": "da-uiawd"
+  },
+  {
+    "id": "s6",
+    "group": "DESIGN",
+    "title": "PHOTO EDITING",
+    "rank": "DESIGN",
+    "date": "2026",
+    "abbr": "PE",
+    "modifier": "da-kds"
+  },
+  {
+    "id": "s7",
+    "group": "AI",
+    "title": "VEO 3 / CINEMATIC VIDEO",
+    "rank": "AI VIDEO",
+    "date": "2026",
+    "abbr": "AV",
+    "modifier": "aw-me"
+  },
+  {
+    "id": "s8",
+    "group": "AI",
+    "title": "MIDJOURNEY / FLUX / IMAGEN",
+    "rank": "AI IMAGE",
+    "date": "2026",
+    "abbr": "AI",
+    "modifier": "aw-sotd"
+  }
+]
