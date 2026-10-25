@@ -2,6 +2,7 @@
 
 **A cinematic, WebGL-driven portfolio — interactive canvas scenes, a works showcase, and an archive of past work.**
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-Visit_Site-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://muneeb-rehman-portfolio-20.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-muneebrahmancmd-181717?style=for-the-badge&logo=github)](https://github.com/muneebrahmancmd)
 
 I'm **Muneeb Rehman** — a creative developer, web designer, graphic designer and AI enthusiast from Pakistan 🇵🇰. This is my portfolio 2.0: a Nuxt.js rebuild with live WebGL scenes — particle and metaball canvas effects across the home, about and archive pages — plus dedicated pages for each project.
